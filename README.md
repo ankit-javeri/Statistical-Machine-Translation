@@ -1,6 +1,8 @@
 # Statistical-Machine-Translation
 
-This is the Final semester project, to **Translate text from French to English** done in group with 3 members. 
+This is the Final semester project, **Translation of text from French to English** done in group with 3 members. 
+
+# Description
 
 - **Objective:** Language translation from French to English which would ease in sharing of knowledge from diverse subjects.
 - **Methodology:** Understanding of lexical machine translation models such as word based translation (IBM Models for word alignments), phrase based translation (phrase extraction for phrase alignments).
