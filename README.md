@@ -2,8 +2,6 @@
 
 Final semester project - **Translation of text from French to English**
 
-This project was done as part of Final Semester Project course in group of 3 members. 
-
 # Description
 
 - **Objective:** Language translation from French to English which would ease in sharing of knowledge from diverse subjects.
