@@ -1,6 +1,8 @@
 # Statistical-Machine-Translation
 
-This is the Final semester project, **Translation of text from French to English** done in group with 3 members. 
+Final semester project - **Translation of text from French to English**
+
+This project was done as part of Final Semester Project course in group of 3 members. 
 
 # Description
 
