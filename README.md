@@ -14,3 +14,10 @@ Final semester project - **Translation of text from French to English**
 The data for this project is taken from **[European Parliament Proceedings Parallel Corpus 1996-2011](https://www.statmt.org/europarl/)** 
 
 Direct link to dataset [download](https://www.statmt.org/europarl/v7/fr-en.tgz) (size 194MB)
+
+
+# SMT IBM Model1 - Learning Alignments (Improved on earlier Shortcomings)
+
+Improvised codes to learn the alignments better than earlier.
+
+
